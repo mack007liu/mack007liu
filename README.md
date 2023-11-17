@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=mackliu007&color=green)
 - 🌱 I’m currently learning AI and big data technology
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mackliu007&theme=dark)](https://git.io/streak-stats)
+- [![GitHub Streak](https://streak-stats.demolab.com?user=mackliu007)](https://git.io/streak-stats)
 <!--
 **mack007liu/mack007liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
