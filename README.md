@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=mackliu007&color=green)
+- 🌱 I’m currently learning AI and big data technology
 <!--
 **mack007liu/mack007liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
