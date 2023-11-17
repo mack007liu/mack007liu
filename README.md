@@ -1,8 +1,9 @@
 ### Hi there, I am Mack. 👋
 ![](https://komarev.com/ghpvc/?username=mackliu007&color=green)
-- 🌱 I’m currently learning AI and big data technology
+- 🔭  I am a Software Developer, experienced in working with JAVA & Python & VUE & Spark & Flink.
+- 🌱  I’m currently learning AI technology.
 
-https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mackliu007&theme=Stats
+
 <!--
 **mack007liu/mack007liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
