@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=mackliu007&color=green)
 - 🌱 I’m currently learning AI and big data technology
 
-- [![GitHub Streak](https://streak-stats.demolab.com?user=mackliu007)](https://git.io/streak-stats)
+https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mackliu007&theme=Stats
 <!--
 **mack007liu/mack007liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![GitHub Streak](https://streak-stats.demolab.com?user=mackliu007)](https://git.io/streak-stats)
 -->
