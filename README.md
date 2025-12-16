@@ -1,7 +1,7 @@
 ### Hi there, I am Mack. 👋
 ![](https://komarev.com/ghpvc/?username=mackliu007&color=green)
 - 🔭  I am a Software Developer, experienced in working with JAVA & Python & VUE & Spark & Flink.
-- 🌱  I’m currently learning AI technology.
+- 🌱  I’m currently praticing AI technology.
 
 
 <!--
