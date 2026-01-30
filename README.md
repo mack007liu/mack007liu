@@ -82,7 +82,7 @@ I share my learnings and insights through technical blogs:
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-mack007liu-181717?style=flat-square&logo=github)](https://github.com/mack007liu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mack-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mack-liu-007/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mack-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mack-liu-6a86178a/)
 [![Email](https://img.shields.io/badge/Email-mackliu007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mackliu007@gmail.com)
 [![Personal Website](https://img.shields.io/badge/Website-mack007liu.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://mack007liu.github.io/docs/index.html)
 
