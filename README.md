@@ -5,7 +5,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mackliu007&color=green)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mack007liu)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mack007liu&show_icons=true&theme=dark&hide_border=true)
 
 ## 🛠️ Tech Stack & Skills
 
@@ -78,7 +77,7 @@ I share my learnings and insights through technical blogs:
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mack007liu&theme=onedark&no-frame=true&row=1&column=7)
+![Stats](https://github-readme-stats.vercel.app/api?username=mack007liu&theme=dark&show_icons=true&hide_border=true)
 
 ## 🌐 Connect With Me
 
