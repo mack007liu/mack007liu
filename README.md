@@ -3,7 +3,8 @@
 📍 Fuzhou, China | 🚀 Full-Stack Developer & AI Enthusiast | 💻 Building the future with code
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mackliu007&color=green)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mack007liu)](https://git.io/streak-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mack007liu)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mack007liu&show_icons=true&theme=dark&hide_border=true)
 
 ## 🛠️ Tech Stack & Skills
